@@ -1,5 +1,7 @@
+cmake_minimum_required(VERSION 3.5)
+
 project(libasd)
-cmake_minimum_required(VERSION 3.0)
+
 enable_testing()
 
 if(MSVC)
